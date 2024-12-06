@@ -247,6 +247,12 @@
         object-position: top; /* Fokus pada bagian bawah gambar */
 }
 
+@media (max-width: 768px) {
+    .produk-card {
+        width: 100%;
+    }
+}
+
 
 /*** Booking ***/
 .booking {
